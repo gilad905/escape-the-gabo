@@ -13,7 +13,7 @@ var timeCounter = 0;
 var gaboSound;
 var gameEnded;
 
-var GABO_COUNT = 13;
+var GABO_COUNT = 5;
 
 function preload() {
    game.load.image('bg', 'media/bg_small.jpg');
